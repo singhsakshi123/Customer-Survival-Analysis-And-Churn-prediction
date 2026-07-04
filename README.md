@@ -145,3 +145,6 @@ This project delivers a complete churn analytics pipeline in one notebook:
 - The business layer turns predictions into **risk tiers and concrete retention actions**, exported for use in a BI dashboard
 
 Exact metric values (ROC-AUC, PR-AUC, precision/recall/F1 per model) are produced by running the notebook's Section 3.4 comparison table — they aren't hardcoded here since they depend on the run environment and library versions.
+
+## 📊 Dashboard Preview
+![Customer Churn Risk Intelligence Dashboard](/Users/sakshisingh/Sakshi/Projects/Customer-Survival-Analysis-and-Churn-Prediction/results/churn_risk_dashboard.png)
